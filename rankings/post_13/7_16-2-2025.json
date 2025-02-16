@@ -1,0 +1,12 @@
+{
+  "candidateName": "David Clark",
+  "candidateId": 7,
+  "postId": 13,
+  "date": "2025-02-16T15:26:39.005Z",
+  "scores": {
+    "fluency": 6,
+    "subjectKnowledge": 5,
+    "professionalBehavior": 7
+  },
+  "feedback": "David's responses are brief and lack detail. While grammatically correct, his language isn't particularly expressive or fluent. He states his role but doesn't elaborate on specific projects or technologies, indicating a lack of depth"
+}

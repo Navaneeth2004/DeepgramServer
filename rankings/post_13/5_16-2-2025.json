@@ -1,0 +1,12 @@
+{
+  "candidateName": "Bob Williams",
+  "candidateId": 5,
+  "postId": 13,
+  "date": "2025-02-16T15:28:19.109Z",
+  "scores": {
+    "fluency": 6,
+    "subjectKnowledge": 3,
+    "professionalBehavior": 4
+  },
+  "feedback": "Bob's initial statement suggests confidence, but lacks specifics. His welcome reply is overly assertive. The short conversation provides little information to assess his skills or project experience, resulting in low scores for subject knowledge and behavior. Language is acceptable but not exceptional."
+}

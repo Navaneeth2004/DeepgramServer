@@ -1,0 +1,12 @@
+{
+  "candidateName": "Emma Johnson",
+  "candidateId": 13,
+  "postId": 17,
+  "date": "2025-02-16T18:41:44.584Z",
+  "scores": {
+    "fluency": 2,
+    "subjectKnowledge": 1,
+    "professionalBehavior": 1
+  },
+  "feedback": "Candidate provided minimal and uninformative responses. He did not answer any questions effectively or demonstrate any subject knowledge. Communication was very poor, and behavior showed a lack of engagement."
+}

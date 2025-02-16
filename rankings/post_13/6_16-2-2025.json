@@ -1,0 +1,12 @@
+{
+  "candidateName": "Sarah Lee",
+  "candidateId": 6,
+  "postId": 13,
+  "date": "2025-02-16T15:22:05.735Z",
+  "scores": {
+    "fluency": 4,
+    "subjectKnowledge": 5,
+    "professionalBehavior": 6
+  },
+  "feedback": "Sarah's language fluency is limited, and her initial introduction was not very clear or professional. Her response to the challenge question was vague. Her behaviour was acceptable, but not enthusiastic. Overall, Sarah's performance was below average."
+}

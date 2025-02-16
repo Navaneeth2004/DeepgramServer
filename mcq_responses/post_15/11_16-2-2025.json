@@ -1,0 +1,108 @@
+{
+  "candidateName": "Olivia Davis",
+  "candidateId": 11,
+  "postId": 15,
+  "date": "2025-02-16T16:11:09.652Z",
+  "mcqResponses": [
+    {
+      "question": "What is the capital of France?",
+      "selectedAnswer": "Rome",
+      "correctAnswer": "Paris"
+    },
+    {
+      "question": "Which is the largest planet in our solar system?",
+      "selectedAnswer": "Mars",
+      "correctAnswer": "Jupiter"
+    },
+    {
+      "question": "Who wrote 'Hamlet'?",
+      "selectedAnswer": "Mark Twain",
+      "correctAnswer": "William Shakespeare"
+    },
+    {
+      "question": "Which element has the chemical symbol 'Au'?",
+      "selectedAnswer": "Copper",
+      "correctAnswer": "Gold"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "selectedAnswer": "Skin",
+      "correctAnswer": "Skin"
+    },
+    {
+      "question": "In which year did World War II end?",
+      "selectedAnswer": "1945",
+      "correctAnswer": "1945"
+    },
+    {
+      "question": "What is the square root of 144?",
+      "selectedAnswer": "13",
+      "correctAnswer": "12"
+    },
+    {
+      "question": "Which programming language was created by James Gosling?",
+      "selectedAnswer": "JavaScript",
+      "correctAnswer": "Java"
+    },
+    {
+      "question": "What is the speed of light in kilometers per second (approximate)?",
+      "selectedAnswer": "400,000 km/s",
+      "correctAnswer": "300,000 km/s"
+    },
+    {
+      "question": "Which gas makes up the majority of Earth's atmosphere?",
+      "selectedAnswer": "Hydrogen",
+      "correctAnswer": "Nitrogen"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "selectedAnswer": "Michelangelo",
+      "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "selectedAnswer": "Ringgit",
+      "correctAnswer": "Yen"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "selectedAnswer": "Mercury",
+      "correctAnswer": "Mars"
+    },
+    {
+      "question": "What is the main component of the Sun?",
+      "selectedAnswer": "Nitrogen",
+      "correctAnswer": "Hydrogen"
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "selectedAnswer": "Marie Curie",
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "question": "Which ocean is the largest?",
+      "selectedAnswer": "Arctic Ocean",
+      "correctAnswer": "Pacific Ocean"
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "selectedAnswer": "Perth",
+      "correctAnswer": "Canberra"
+    },
+    {
+      "question": "Which programming paradigm does React.js follow?",
+      "selectedAnswer": "Declarative",
+      "correctAnswer": "Declarative"
+    },
+    {
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "selectedAnswer": "Tree",
+      "correctAnswer": "Stack"
+    },
+    {
+      "question": "Which HTTP method is used to retrieve data from a server?",
+      "selectedAnswer": "DELETE",
+      "correctAnswer": "GET"
+    }
+  ]
+}

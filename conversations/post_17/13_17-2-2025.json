@@ -1,0 +1,8 @@
+{
+  "Welcome Message": "Hello Liam, and welcome! Thank you for joining us today at IMMCO Software Solutions. To get started, could you please introduce yourself and share your experience as a full stack developer?",
+  "Candidate Welcome Reply": "ok",
+  "Introduction Question": "Thanks, Liam. Can you tell me about a specific project you worked on where you had to handle both front-end and back-end development?",
+  "Candidate Introduction Reply": "yes",
+  "Start The Question Message": "Thanks for that introduction! You’ve shared some helpful details. Now let’s transition into the next part of our discussion and take a look at some specific questions that will help us understand how you’ll approach the challenges of this role.",
+  "Interview_End": "Alright Liam, that concludes the interview. Thank you so much for your time and for sharing your experience with us. We really appreciate you taking the time to meet with us today.\n"
+}

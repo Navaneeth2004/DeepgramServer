@@ -1,0 +1,16 @@
+{
+  "candidateName": "Alice Johnson",
+  "candidateId": 4,
+  "postId": 13,
+  "date": "2025-02-16T14:49:04.168Z",
+  "scores": {
+    "fluency": 2,
+    "subjectKnowledge": 1,
+    "professionalBehavior": 3
+  },
+  "feedback": "Alice's performance was weak. Her language was minimal and unprofessional, subject knowledge appeared non-existent, and her behavior reflected a lack of preparation and engagement.",
+  "panelReview": {
+    "text": "Very poor performance.",
+    "timestamp": "2025-02-16T15:30:10.627Z"
+  }
+}

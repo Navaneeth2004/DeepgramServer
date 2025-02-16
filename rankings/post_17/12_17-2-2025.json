@@ -1,0 +1,12 @@
+{
+  "candidateName": "Liam Smith",
+  "candidateId": 12,
+  "postId": 17,
+  "date": "2025-02-16T18:40:08.784Z",
+  "scores": {
+    "fluency": 1,
+    "subjectKnowledge": 1,
+    "professionalBehavior": 1
+  },
+  "feedback": "The candidate provided minimal and unhelpful responses, failing to answer any questions properly. Communication was extremely poor, demonstrating a lack of language fluency and subject knowledge. Behaviour was also concerning due to the lack of engagement."
+}
